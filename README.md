@@ -46,11 +46,7 @@
 </ul>
 </li>
 </ul>
-<ol>
-<li>Faça um clone do repositório:</li>
-</ol>
-<div class="highlight highlight-source-shell"><pre>  $ git clone https://github.com/HigorSnt/proffy.git</pre></div>
-<ol start="2">
+<ol start="1º">
 <li>Executando a Aplicação:</li>
 </ol>
 <div class="highlight highlight-source-shell"><pre>  <span class="pl-c"><span class="pl-c">#</span> API</span>
