@@ -92,35 +92,3 @@ npm start</pre></div>
 </ul>
 </article>
       </div>
-  </div>
-
-
-</div>
-    <div class="flex-shrink-0 col-12 col-md-3">
-            
-
-      <div class="BorderGrid BorderGrid--spacious" data-pjax>
-        <div class="BorderGrid-row hide-sm hide-md">
-          <div class="BorderGrid-cell">
-            <h2 class="mb-3 h4">About</h2>
-
-    <p class="f4 mt-3">
-      Plataforma de estudos online
-    </p>
-
-  <h3 class="sr-only">Topics</h3>
-  <div class="mt-3">
-      <div class="f6">
-      <a data-ga-click="Topic, repository page" data-octo-click="topic_click" data-octo-dimensions="topic:rocketseat" href="/topics/rocketseat" title="Topic: rocketseat" class="topic-tag topic-tag-link ">
-  rocketseat
-</a>
-      <a data-ga-click="Topic, repository page" data-octo-click="topic_click" data-octo-dimensions="topic:react" href="/topics/react" title="Topic: react" class="topic-tag topic-tag-link ">
-  react
-</a>
-      <a data-ga-click="Topic, repository page" data-octo-click="topic_click" data-octo-dimensions="topic:nodejs" href="/topics/nodejs" title="Topic: nodejs" class="topic-tag topic-tag-link ">
-  nodejs
-</a>
-      <a data-ga-click="Topic, repository page" data-octo-click="topic_click" data-octo-dimensions="topic:react-native" href="/topics/react-native" title="Topic: react-native" class="topic-tag topic-tag-link ">
-  react-native
-</a>
-  </div>
